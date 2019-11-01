@@ -22,11 +22,11 @@ This mod seeks to make the Stork worth while by,
 
 # Links
 
-[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419695)
+[Egosoft Forum]()
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1902954509)
+[Steam Workshop]()
 
-[Github](https://github.com/rovermicrover/x4-improved-condor)
+[Github](https://github.com/rovermicrover/x4-improved-stork)
 
 # History
 
