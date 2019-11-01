@@ -24,7 +24,7 @@ This mod seeks to make the Stork worth while by,
 
 [Egosoft Forum]()
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1903595373)
 
 [Github](https://github.com/rovermicrover/x4-improved-stork)
 
