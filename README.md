@@ -22,7 +22,7 @@ This mod seeks to make the Stork worth while by,
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419712)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1903595373)
 
